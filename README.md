@@ -10,7 +10,7 @@
 
 > What sets Tiny File Manager [WH1Z-Edition] apart is its focus on privacy and security. By removing the reliance on external domains for CSS and JS resources, your data stays localized and protected from potential vulnerabilities or leaks. This makes it an ideal choice for scenarios where data integrity and confidentiality are paramount, including RED TEAMING exercises or restricted server environments.
 
-[![Tiny File Manager [WH1Z-Edition]](screenshot.gif)](screenshot.gif)
+[![Tiny File Manager [WH1Z-Edition]](preview.gif)](preview.gif)
 
 ## Requirements
 
