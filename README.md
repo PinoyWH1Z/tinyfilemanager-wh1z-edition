@@ -1,5 +1,9 @@
 # Tiny File Manager [WH1Z-Edition]
 
+[![GitHub Release](https://img.shields.io/github/release/PinoyWH1Z/tinyfilemanager-wh1z-edition.svg?style=flat-square)](https://github.com/PinoyWH1Z/tinyfilemanager-wh1z-edition/releases)
+[![GitHub License](https://img.shields.io/github/license/PinoyWH1Z/tinyfilemanager-wh1z-edition.svg?style=flat-square)](https://github.com/PinoyWH1Z/tinyfilemanager-wh1z-edition/blob/master/LICENSE)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/PinoyWH1Z)
+
 > Introducing Tiny File Manager [WH1Z-Edition], the compact and efficient solution for managing your files and folders with enhanced privacy and security features. Gone are the days of relying on external resources – I've stripped down the code to its core, making it truly lightweight and perfect for deployment in environments without internet access or outbound connections.
 
 > Designed for simplicity and speed, Tiny File Manager [WH1Z-Edition] retains all the essential functionalities you need for storing, uploading, editing, and managing your files directly from your web browser. With a single-file PHP setup, you can effortlessly drop it into any folder on your server and start organizing your files immediately.
